@@ -19,6 +19,10 @@
 - **Minimax Algorithm** - The AI’s brain, ensuring it always makes the best possible move.
 - **Command-Line Interface** - Direct, efficient, and easy-to-use.
 
+## 📞 Contact
+
+For questions or feedback, please reach out to [Ramesh Shrestha](mailto:shrestha.ramesh000@gmail.com).
+
 ## 🎯 How to Get Started
 
 1. **Clone the Repository:**
@@ -43,6 +47,8 @@
 4. **Choose Your Challenge:**
    - **Player vs. AI:** Test your skills against the perfect strategist.
    - **Player vs. Player:** Face off with a friend.
+  
+    
 
 5. **Let the Battle Begin!**
 
@@ -57,7 +63,5 @@ Tic-Tac-Toe-Game/
 └── README.md            # Project documentation
 
 
-## 📞 Contact
 
-For questions or feedback, please reach out to [Ramesh Shrestha](mailto:shrestha.ramesh000@gmail.com).
 
