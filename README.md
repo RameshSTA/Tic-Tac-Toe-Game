@@ -56,4 +56,8 @@ Tic-Tac-Toe-Game/
 ├── utils.cpp            # Supportive utilities
 └── README.md            # Project documentation
 
-Ensure you include a `LICENSE` file in your repository with the full MIT License text. This README now includes all the necessary details for licensing, copyright, and contact information.
+
+## 📞 Contact
+
+For questions or feedback, please reach out to [Ramesh Shrestha](mailto:shrestha.ramesh000@gmail.com).
+
