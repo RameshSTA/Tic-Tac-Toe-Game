@@ -1,6 +1,6 @@
 # 🎮 AI-Powered Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](https://img.shields.io/badge/Tic--Tac--Toe-Game-blueviolet) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Tic-Tac-Toe](https://img.shields.io/badge/Tic--Tac--Toe-Game-blueviolet) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![C++](https://img.shields.io/badge/C%2B%2B-11%2B-blue) ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## ✨ Overview
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Technologies Behind the Magic
 
-- **Python 3.8+** - The backbone of the game’s logic.
+- **C++ 11+** - The backbone of the game’s logic.
 - **Minimax Algorithm** - The AI’s brain, ensuring it always makes the best possible move.
 - **Command-Line Interface** - Direct, efficient, and easy-to-use.
 
@@ -28,24 +28,32 @@
     cd Tic-Tac-Toe-Game
     ```
 
-2. **Run the Game:**
+2. **Compile the Game:**
 
     ```bash
-    python tic_tac_toe.py
+    g++ -std=c++11 tic_tac_toe.cpp -o tic_tac_toe
     ```
 
-3. **Choose Your Challenge:**
-   - Player vs. AI: Test your skills against the perfect strategist.
-   - Player vs. Player: Face off with a friend.
+3. **Run the Game:**
 
-4. **Let the Battle Begin!**
+    ```bash
+    ./tic_tac_toe
+    ```
+
+4. **Choose Your Challenge:**
+   - **Player vs. AI:** Test your skills against the perfect strategist.
+   - **Player vs. Player:** Face off with a friend.
+
+5. **Let the Battle Begin!**
 
 ## 📂 Inside the Code
 
 ```plaintext
 Tic-Tac-Toe-Game/
 │
-├── tic_tac_toe.py      # The game engine
-├── ai.py               # AI strategy using Minimax
-├── utils.py            # Supportive utilities
-└── README.md           # Project documentation
+├── tic_tac_toe.cpp      # The game engine
+├── ai.cpp               # AI strategy using Minimax
+├── utils.cpp            # Supportive utilities
+└── README.md            # Project documentation
+
+Ensure you include a `LICENSE` file in your repository with the full MIT License text. This README now includes all the necessary details for licensing, copyright, and contact information.
